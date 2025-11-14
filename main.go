@@ -13,7 +13,7 @@ import (
 
 const (
 	hardcodedIdentifier = "com.ripestore.source"
-	hardcodedSourceURL  = "https://raw.githubusercontent.com/RipeStore/repos/main/RipeStore_feather.json"
+	hardcodedSourceURL  = "https://raw.githubusercontent.com/RipeStore/repos/main/RipeStore.json"
 )
 
 // Root has fields in the order we want them to appear in output JSON.
